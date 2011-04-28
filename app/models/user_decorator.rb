@@ -1,2 +1,2 @@
-User.class_eval do
-end
+#User.class_eval do
+#end
