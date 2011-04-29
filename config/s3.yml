@@ -9,6 +9,6 @@ test:
   secret_access_key: GZQ67XQgDtZ6dbe5KJd6hIKBLQBZWWD6rZ1Adb2Q
 
 production:
-  bucket: tatoo_prod
+  bucket: tatoo_production
   access_key_id: AKIAJAIPA5STXJNQHFOA
   secret_access_key: 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
