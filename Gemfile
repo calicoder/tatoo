@@ -8,4 +8,5 @@ gem 'aws-s3'
 
 group :dev do
   gem 'taps', '0.3.23'
+  gem 'heroku', '2.0.4'
 end
