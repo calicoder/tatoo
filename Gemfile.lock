@@ -41,6 +41,7 @@ GEM
     activesupport (3.0.7)
     acts_as_list (0.1.2)
     arel (2.0.9)
+    awesome_print (0.3.2)
     aws-s3 (0.6.2)
       builder
       mime-types
@@ -176,6 +177,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  awesome_print
   aws-s3
   heroku (= 2.0.4)
   mysql2 (= 0.2.7)
