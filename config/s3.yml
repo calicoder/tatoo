@@ -1,14 +1,14 @@
 development:
   bucket: tatoo_dev
-  access_key_id: AKIAJAIPA5STXJNQHFOA
-  secret_access_key: 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
+  access_key_id: xxx
+  secret_access_key: xxx
 
 test:
   bucket: tatoo_test
-  access_key_id: AKIAJAIPA5STXJNQHFOA
-  secret_access_key: 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
+  access_key_id: xxx
+  secret_access_key: xxx
 
 production:
   bucket: tatoo_production
-  access_key_id: AKIAJAIPA5STXJNQHFOA
-  secret_access_key: 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
+  access_key_id: xxx
+  secret_access_key: xxx
